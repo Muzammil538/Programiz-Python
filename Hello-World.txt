@@ -1,0 +1,3 @@
+In the first line (#This is Hello World Program) this a comment . 
+
+And in the Line 3 {print("Hello , World!")} is the main code .
